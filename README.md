@@ -5,7 +5,7 @@ To test this project:
     - import the databasedump -> 'mysql -u ${user} -p demo < demo.sql
     - in /lib/pool put your user and password of your mysql's client
     - run 'npm run test' to start
-    - go to localhost:5454
+    - go to localhost:5454/api/v1
 
 Functionality
 The API has to fulfill the following conditions:
